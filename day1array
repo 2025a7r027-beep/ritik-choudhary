@@ -1,0 +1,47 @@
+#include<stdio.h>
+int main(){
+while(1){
+    printf("1. Insert in begnining\n");
+    printf("2. Insert At end\n");
+    printf("3. Insert At Any Poeition\n");
+    printf("4. Delete from begning \n");
+    printf("5. Delete from end \n");
+    printf("6. Delete from any position\n");
+    printf("7. Display List\n");
+    printf("8. Serech element in list \n");
+    printf("9. Update element in list\n");
+    printf("10. Sort element of list\n");
+    printf("11. Exit\n");
+    int choice;
+    printf("Enter choice\n");
+    scanf("%d", &choice);
+    switch(choice){
+        case 1:
+        break;
+        case 2:
+        break;
+        case 3:
+        break;
+        case 4:
+        break;
+        case 5:
+        break;
+        case 6:
+        break;
+        case 7:
+        break;
+        case 8:
+        break;
+        case 9:
+        break;
+        case 10:
+        break;
+        case 11:
+        break;
+
+
+    }
+    
+}
+return 0;
+}
